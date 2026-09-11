@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789119048898,
+  "updatedAt": 1789119386150,
   "devices": {
     "bcf4e553-e729-4b38-8259-30b740fa03ee": {
-      "lastSeen": 1789119047492
+      "lastSeen": 1789119385452
     }
   },
   "problems": {
@@ -26,7 +26,28 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1789119047492
+      "at": 1789119385452
+    },
+    "234": {
+      "attempts": 3,
+      "bestMemory": "94.4 MB (Beats 67%)",
+      "bestRuntime": "3 ms (Beats 100%)",
+      "date": "2026-09-11",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-11",
+      "folderName": "0234-Palindrome-Linked-List",
+      "language": "Java",
+      "number": 234,
+      "slug": "palindrome-linked-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Two Pointers",
+        "Stack",
+        "Recursion"
+      ],
+      "title": "Palindrome Linked List",
+      "at": 1789119385452
     }
   },
   "achievements": {
@@ -34,10 +55,11 @@
   },
   "sheets": {},
   "days": [
-    "2026-09-10"
+    "2026-09-10",
+    "2026-09-11"
   ],
   "bests": {
-    "longestStreak": 1,
-    "pushes": 1
+    "longestStreak": 2,
+    "pushes": 2
   }
 }
