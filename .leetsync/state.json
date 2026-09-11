@@ -1,12 +1,30 @@
 {
   "v": 1,
-  "updatedAt": 1789162580677,
+  "updatedAt": 1789162878981,
   "devices": {
     "bcf4e553-e729-4b38-8259-30b740fa03ee": {
-      "lastSeen": 1789162578368
+      "lastSeen": 1789162878377
     }
   },
   "problems": {
+    "92": {
+      "attempts": 2,
+      "bestMemory": "43.1 MB (Beats 29%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-11",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-11",
+      "folderName": "0092-Reverse-Linked-List-II",
+      "language": "Java",
+      "number": 92,
+      "slug": "reverse-linked-list-ii",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List"
+      ],
+      "title": "Reverse Linked List II",
+      "at": 1789162878377
+    },
     "142": {
       "attempts": 1,
       "bestMemory": "46.6 MB (Beats 70%)",
@@ -26,7 +44,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1789162578368
+      "at": 1789162878377
     },
     "167": {
       "attempts": 1,
@@ -46,7 +64,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1789162578368
+      "at": 1789162878377
     },
     "234": {
       "attempts": 3,
@@ -67,7 +85,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1789162578368
+      "at": 1789162878377
     },
     "283": {
       "attempts": 2,
@@ -86,7 +104,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1789162578368
+      "at": 1789162878377
     }
   },
   "achievements": {
@@ -100,6 +118,6 @@
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 5
+    "pushes": 6
   }
 }
