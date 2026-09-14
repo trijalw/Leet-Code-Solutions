@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789378964926,
+  "updatedAt": 1789379235118,
   "devices": {
     "bcf4e553-e729-4b38-8259-30b740fa03ee": {
-      "lastSeen": 1789378964132
+      "lastSeen": 1789379234181
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1789378964132
+      "at": 1789379234181
     },
     "24": {
       "attempts": 1,
@@ -43,7 +43,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1789378964132
+      "at": 1789379234181
     },
     "25": {
       "attempts": 1,
@@ -62,7 +62,7 @@
         "Recursion"
       ],
       "title": "Reverse Nodes in k-Group",
-      "at": 1789378964132
+      "at": 1789379234181
     },
     "92": {
       "attempts": 2,
@@ -80,7 +80,7 @@
         "Linked List"
       ],
       "title": "Reverse Linked List II",
-      "at": 1789378964132
+      "at": 1789379234181
     },
     "142": {
       "attempts": 1,
@@ -101,7 +101,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1789378964132
+      "at": 1789379234181
     },
     "167": {
       "attempts": 1,
@@ -121,7 +121,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1789378964132
+      "at": 1789379234181
     },
     "234": {
       "attempts": 3,
@@ -142,7 +142,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1789378964132
+      "at": 1789379234181
     },
     "283": {
       "attempts": 2,
@@ -161,7 +161,26 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1789378964132
+      "at": 1789379234181
+    },
+    "2095": {
+      "attempts": 2,
+      "bestMemory": "202.7 MB (Beats 42%)",
+      "bestRuntime": "5 ms (Beats 3%)",
+      "date": "2026-09-14",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-14",
+      "folderName": "2095-Delete-the-Middle-Node-of-a-Linked-List",
+      "language": "Java",
+      "number": 2095,
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "title": "Delete the Middle Node of a Linked List",
+      "at": 1789379234181
     }
   },
   "achievements": {
@@ -179,6 +198,6 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 9
+    "pushes": 10
   }
 }
