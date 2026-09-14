@@ -1,12 +1,31 @@
 {
   "v": 1,
-  "updatedAt": 1789378612674,
+  "updatedAt": 1789378931880,
   "devices": {
     "bcf4e553-e729-4b38-8259-30b740fa03ee": {
-      "lastSeen": 1789378611886
+      "lastSeen": 1789378930824
     }
   },
   "problems": {
+    "19": {
+      "attempts": 2,
+      "bestMemory": "43.4 MB (Beats 77%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-14",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-14",
+      "folderName": "0019-Remove-Nth-Node-From-End-of-List",
+      "language": "Java",
+      "number": 19,
+      "slug": "remove-nth-node-from-end-of-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "title": "Remove Nth Node From End of List",
+      "at": 1789378930824
+    },
     "24": {
       "attempts": 1,
       "bestMemory": "43.2 MB (Beats 12%)",
@@ -24,7 +43,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1789378611886
+      "at": 1789378930824
     },
     "25": {
       "attempts": 1,
@@ -43,7 +62,7 @@
         "Recursion"
       ],
       "title": "Reverse Nodes in k-Group",
-      "at": 1789378611886
+      "at": 1789378930824
     },
     "92": {
       "attempts": 2,
@@ -61,7 +80,7 @@
         "Linked List"
       ],
       "title": "Reverse Linked List II",
-      "at": 1789378611886
+      "at": 1789378930824
     },
     "142": {
       "attempts": 1,
@@ -82,7 +101,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1789378611886
+      "at": 1789378930824
     },
     "167": {
       "attempts": 1,
@@ -102,7 +121,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1789378611886
+      "at": 1789378930824
     },
     "234": {
       "attempts": 3,
@@ -123,7 +142,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1789378611886
+      "at": 1789378930824
     },
     "283": {
       "attempts": 2,
@@ -142,7 +161,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1789378611886
+      "at": 1789378930824
     }
   },
   "achievements": {
@@ -155,10 +174,11 @@
   "days": [
     "2026-09-10",
     "2026-09-11",
-    "2026-09-12"
+    "2026-09-12",
+    "2026-09-14"
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 8
+    "pushes": 9
   }
 }
