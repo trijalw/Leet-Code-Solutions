@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789451587413,
+  "updatedAt": 1789454677183,
   "devices": {
     "bcf4e553-e729-4b38-8259-30b740fa03ee": {
-      "lastSeen": 1789451586636
+      "lastSeen": 1789454676586
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1789451586636
+      "at": 1789454676586
     },
     "24": {
       "attempts": 1,
@@ -43,7 +43,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1789451586636
+      "at": 1789454676586
     },
     "25": {
       "attempts": 1,
@@ -62,7 +62,7 @@
         "Recursion"
       ],
       "title": "Reverse Nodes in k-Group",
-      "at": 1789451586636
+      "at": 1789454676586
     },
     "86": {
       "attempts": 1,
@@ -81,7 +81,7 @@
         "Two Pointers"
       ],
       "title": "Partition List",
-      "at": 1789451586636
+      "at": 1789454676586
     },
     "92": {
       "attempts": 2,
@@ -99,7 +99,7 @@
         "Linked List"
       ],
       "title": "Reverse Linked List II",
-      "at": 1789451586636
+      "at": 1789454676586
     },
     "142": {
       "attempts": 1,
@@ -120,7 +120,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1789451586636
+      "at": 1789454676586
     },
     "167": {
       "attempts": 1,
@@ -140,7 +140,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1789451586636
+      "at": 1789454676586
     },
     "234": {
       "attempts": 3,
@@ -161,7 +161,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1789451586636
+      "at": 1789454676586
     },
     "283": {
       "attempts": 2,
@@ -180,7 +180,25 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1789451586636
+      "at": 1789454676586
+    },
+    "328": {
+      "attempts": 1,
+      "bestMemory": "46.5 MB (Beats 18%)",
+      "bestRuntime": "1 ms (Beats 7%)",
+      "date": "2026-09-15",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-15",
+      "folderName": "0328-Odd-Even-Linked-List",
+      "language": "Java",
+      "number": 328,
+      "slug": "odd-even-linked-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List"
+      ],
+      "title": "Odd Even Linked List",
+      "at": 1789454676586
     },
     "2095": {
       "attempts": 2,
@@ -199,7 +217,7 @@
         "Two Pointers"
       ],
       "title": "Delete the Middle Node of a Linked List",
-      "at": 1789451586636
+      "at": 1789454676586
     }
   },
   "achievements": {
@@ -214,10 +232,11 @@
     "2026-09-10",
     "2026-09-11",
     "2026-09-12",
-    "2026-09-14"
+    "2026-09-14",
+    "2026-09-15"
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 11
+    "pushes": 12
   }
 }
