@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789467255812,
+  "updatedAt": 1789467434720,
   "devices": {
     "bcf4e553-e729-4b38-8259-30b740fa03ee": {
-      "lastSeen": 1789467255166
+      "lastSeen": 1789467434172
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1789467255166
+      "at": 1789467434172
     },
     "24": {
       "attempts": 1,
@@ -43,7 +43,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1789467255166
+      "at": 1789467434172
     },
     "25": {
       "attempts": 1,
@@ -62,7 +62,7 @@
         "Recursion"
       ],
       "title": "Reverse Nodes in k-Group",
-      "at": 1789467255166
+      "at": 1789467434172
     },
     "86": {
       "attempts": 1,
@@ -81,7 +81,7 @@
         "Two Pointers"
       ],
       "title": "Partition List",
-      "at": 1789467255166
+      "at": 1789467434172
     },
     "92": {
       "attempts": 2,
@@ -99,7 +99,7 @@
         "Linked List"
       ],
       "title": "Reverse Linked List II",
-      "at": 1789467255166
+      "at": 1789467434172
     },
     "142": {
       "attempts": 1,
@@ -120,7 +120,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1789467255166
+      "at": 1789467434172
     },
     "167": {
       "attempts": 1,
@@ -140,7 +140,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1789467255166
+      "at": 1789467434172
     },
     "234": {
       "attempts": 3,
@@ -161,7 +161,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1789467255166
+      "at": 1789467434172
     },
     "283": {
       "attempts": 2,
@@ -180,7 +180,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1789467255166
+      "at": 1789467434172
     },
     "328": {
       "attempts": 1,
@@ -198,7 +198,25 @@
         "Linked List"
       ],
       "title": "Odd Even Linked List",
-      "at": 1789467255166
+      "at": 1789467434172
+    },
+    "1669": {
+      "attempts": 1,
+      "bestMemory": "49.2 MB (Beats 85%)",
+      "bestRuntime": "3 ms (Beats 5%)",
+      "date": "2026-09-15",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-15",
+      "folderName": "1669-Merge-In-Between-Linked-Lists",
+      "language": "Java",
+      "number": 1669,
+      "slug": "merge-in-between-linked-lists",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List"
+      ],
+      "title": "Merge In Between Linked Lists",
+      "at": 1789467434172
     },
     "2095": {
       "attempts": 2,
@@ -217,7 +235,7 @@
         "Two Pointers"
       ],
       "title": "Delete the Middle Node of a Linked List",
-      "at": 1789467255166
+      "at": 1789467434172
     }
   },
   "achievements": {
@@ -237,6 +255,6 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 12
+    "pushes": 13
   }
 }
