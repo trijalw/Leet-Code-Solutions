@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-14%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-2%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-11%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-15%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-3%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-11%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -36,6 +36,7 @@
 | 92 | [Reverse Linked List II](problems/0092-Reverse-Linked-List-II) | 🟧 Medium | `Java` | 2026-09-11 |
 | 142 | [Linked List Cycle II](problems/0142-Linked-List-Cycle-II) | 🟧 Medium | `Java` | 2026-09-10 |
 | 148 | [Sort List](problems/0148-Sort-List) | 🟧 Medium | `Java` | 2026-09-15 |
+| 160 | [Intersection of Two Linked Lists](problems/0160-Intersection-of-Two-Linked-Lists) | 🟩 Easy | `Java` | 2026-09-16 |
 | 167 | [Two Sum II - Input Array Is Sorted](problems/0167-Two-Sum-II---Input-Array-Is-Sorted) | 🟧 Medium | `Java` | 2026-09-11 |
 | 234 | [Palindrome Linked List](problems/0234-Palindrome-Linked-List) | 🟩 Easy | `Java` | 2026-09-11 |
 | 283 | [Move Zeroes](problems/0283-Move-Zeroes) | 🟩 Easy | `Java` | 2026-09-11 |
