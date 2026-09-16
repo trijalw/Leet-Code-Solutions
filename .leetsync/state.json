@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789539570279,
+  "updatedAt": 1789587104953,
   "devices": {
     "bcf4e553-e729-4b38-8259-30b740fa03ee": {
-      "lastSeen": 1789539568710
+      "lastSeen": 1789587104132
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1789539568710
+      "at": 1789587104132
     },
     "24": {
       "attempts": 1,
@@ -43,7 +43,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1789539568710
+      "at": 1789587104132
     },
     "25": {
       "attempts": 1,
@@ -62,7 +62,7 @@
         "Recursion"
       ],
       "title": "Reverse Nodes in k-Group",
-      "at": 1789539568710
+      "at": 1789587104132
     },
     "86": {
       "attempts": 1,
@@ -81,7 +81,7 @@
         "Two Pointers"
       ],
       "title": "Partition List",
-      "at": 1789539568710
+      "at": 1789587104132
     },
     "92": {
       "attempts": 2,
@@ -99,7 +99,7 @@
         "Linked List"
       ],
       "title": "Reverse Linked List II",
-      "at": 1789539568710
+      "at": 1789587104132
     },
     "142": {
       "attempts": 1,
@@ -120,7 +120,28 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1789539568710
+      "at": 1789587104132
+    },
+    "143": {
+      "attempts": 1,
+      "bestMemory": "49.5 MB (Beats 14%)",
+      "bestRuntime": "2 ms (Beats 87%)",
+      "date": "2026-09-16",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-16",
+      "folderName": "0143-Reorder-List",
+      "language": "Java",
+      "number": 143,
+      "slug": "reorder-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Two Pointers",
+        "Stack",
+        "Recursion"
+      ],
+      "title": "Reorder List",
+      "at": 1789587104132
     },
     "148": {
       "attempts": 1,
@@ -142,7 +163,7 @@
         "Merge Sort"
       ],
       "title": "Sort List",
-      "at": 1789539568710
+      "at": 1789587104132
     },
     "160": {
       "attempts": 1,
@@ -162,7 +183,7 @@
         "Two Pointers"
       ],
       "title": "Intersection of Two Linked Lists",
-      "at": 1789539568710
+      "at": 1789587104132
     },
     "167": {
       "attempts": 1,
@@ -182,7 +203,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1789539568710
+      "at": 1789587104132
     },
     "234": {
       "attempts": 3,
@@ -203,7 +224,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1789539568710
+      "at": 1789587104132
     },
     "283": {
       "attempts": 2,
@@ -222,7 +243,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1789539568710
+      "at": 1789587104132
     },
     "328": {
       "attempts": 1,
@@ -240,7 +261,7 @@
         "Linked List"
       ],
       "title": "Odd Even Linked List",
-      "at": 1789539568710
+      "at": 1789587104132
     },
     "912": {
       "attempts": 1,
@@ -265,7 +286,7 @@
         "Counting Sort"
       ],
       "title": "Sort an Array",
-      "at": 1789539568710
+      "at": 1789587104132
     },
     "1004": {
       "attempts": 1,
@@ -286,7 +307,7 @@
         "Prefix Sum"
       ],
       "title": "Max Consecutive Ones III",
-      "at": 1789539568710
+      "at": 1789587104132
     },
     "1669": {
       "attempts": 3,
@@ -304,7 +325,7 @@
         "Linked List"
       ],
       "title": "Merge In Between Linked Lists",
-      "at": 1789539568710
+      "at": 1789587104132
     },
     "2095": {
       "attempts": 2,
@@ -323,7 +344,7 @@
         "Two Pointers"
       ],
       "title": "Delete the Middle Node of a Linked List",
-      "at": 1789539568710
+      "at": 1789587104132
     }
   },
   "achievements": {
@@ -345,6 +366,6 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 18
+    "pushes": 19
   }
 }
