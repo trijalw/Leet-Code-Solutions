@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789534315246,
+  "updatedAt": 1789534638690,
   "devices": {
     "bcf4e553-e729-4b38-8259-30b740fa03ee": {
-      "lastSeen": 1789534314547
+      "lastSeen": 1789534634174
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1789534314547
+      "at": 1789534634174
     },
     "24": {
       "attempts": 1,
@@ -43,7 +43,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1789534314547
+      "at": 1789534634174
     },
     "25": {
       "attempts": 1,
@@ -62,7 +62,7 @@
         "Recursion"
       ],
       "title": "Reverse Nodes in k-Group",
-      "at": 1789534314547
+      "at": 1789534634174
     },
     "86": {
       "attempts": 1,
@@ -81,7 +81,7 @@
         "Two Pointers"
       ],
       "title": "Partition List",
-      "at": 1789534314547
+      "at": 1789534634174
     },
     "92": {
       "attempts": 2,
@@ -99,7 +99,7 @@
         "Linked List"
       ],
       "title": "Reverse Linked List II",
-      "at": 1789534314547
+      "at": 1789534634174
     },
     "142": {
       "attempts": 1,
@@ -120,7 +120,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1789534314547
+      "at": 1789534634174
     },
     "148": {
       "attempts": 1,
@@ -142,7 +142,27 @@
         "Merge Sort"
       ],
       "title": "Sort List",
-      "at": 1789534314547
+      "at": 1789534634174
+    },
+    "160": {
+      "attempts": 1,
+      "bestMemory": "52.5 MB (Beats 93%)",
+      "bestRuntime": "1 ms (Beats 100%)",
+      "date": "2026-09-16",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-16",
+      "folderName": "0160-Intersection-of-Two-Linked-Lists",
+      "language": "Java",
+      "number": 160,
+      "slug": "intersection-of-two-linked-lists",
+      "solutionCount": 1,
+      "tags": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers"
+      ],
+      "title": "Intersection of Two Linked Lists",
+      "at": 1789534634174
     },
     "167": {
       "attempts": 1,
@@ -162,7 +182,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1789534314547
+      "at": 1789534634174
     },
     "234": {
       "attempts": 3,
@@ -183,7 +203,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1789534314547
+      "at": 1789534634174
     },
     "283": {
       "attempts": 2,
@@ -202,7 +222,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1789534314547
+      "at": 1789534634174
     },
     "328": {
       "attempts": 1,
@@ -220,7 +240,7 @@
         "Linked List"
       ],
       "title": "Odd Even Linked List",
-      "at": 1789534314547
+      "at": 1789534634174
     },
     "912": {
       "attempts": 1,
@@ -245,7 +265,7 @@
         "Counting Sort"
       ],
       "title": "Sort an Array",
-      "at": 1789534314547
+      "at": 1789534634174
     },
     "1669": {
       "attempts": 3,
@@ -263,7 +283,7 @@
         "Linked List"
       ],
       "title": "Merge In Between Linked Lists",
-      "at": 1789534314547
+      "at": 1789534634174
     },
     "2095": {
       "attempts": 2,
@@ -282,7 +302,7 @@
         "Two Pointers"
       ],
       "title": "Delete the Middle Node of a Linked List",
-      "at": 1789534314547
+      "at": 1789534634174
     }
   },
   "achievements": {
@@ -299,10 +319,11 @@
     "2026-09-11",
     "2026-09-12",
     "2026-09-14",
-    "2026-09-15"
+    "2026-09-15",
+    "2026-09-16"
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 16
+    "pushes": 17
   }
 }
