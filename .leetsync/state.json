@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789669356909,
+  "updatedAt": 1789705572403,
   "devices": {
     "bcf4e553-e729-4b38-8259-30b740fa03ee": {
-      "lastSeen": 1789669356147
+      "lastSeen": 1789705571129
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "24": {
       "attempts": 1,
@@ -43,7 +43,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "25": {
       "attempts": 1,
@@ -62,7 +62,7 @@
         "Recursion"
       ],
       "title": "Reverse Nodes in k-Group",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "86": {
       "attempts": 1,
@@ -81,7 +81,7 @@
         "Two Pointers"
       ],
       "title": "Partition List",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "92": {
       "attempts": 2,
@@ -99,7 +99,7 @@
         "Linked List"
       ],
       "title": "Reverse Linked List II",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "142": {
       "attempts": 1,
@@ -120,20 +120,20 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "143": {
-      "attempts": 1,
-      "bestMemory": "49.5 MB (Beats 14%)",
+      "attempts": 2,
+      "bestMemory": "49.2 MB (Beats 54%)",
       "bestRuntime": "2 ms (Beats 87%)",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "difficulty": "Medium",
-      "firstSolvedOn": "2026-09-16",
+      "firstSolvedOn": "2026-09-17",
       "folderName": "0143-Reorder-List",
       "language": "Java",
       "number": 143,
       "slug": "reorder-list",
-      "solutionCount": 1,
+      "solutionCount": 2,
       "tags": [
         "Linked List",
         "Two Pointers",
@@ -141,7 +141,7 @@
         "Recursion"
       ],
       "title": "Reorder List",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "148": {
       "attempts": 1,
@@ -163,7 +163,7 @@
         "Merge Sort"
       ],
       "title": "Sort List",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "160": {
       "attempts": 1,
@@ -183,7 +183,7 @@
         "Two Pointers"
       ],
       "title": "Intersection of Two Linked Lists",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "167": {
       "attempts": 1,
@@ -203,7 +203,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "234": {
       "attempts": 3,
@@ -224,7 +224,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "283": {
       "attempts": 2,
@@ -243,7 +243,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "328": {
       "attempts": 1,
@@ -261,7 +261,7 @@
         "Linked List"
       ],
       "title": "Odd Even Linked List",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "912": {
       "attempts": 1,
@@ -286,7 +286,7 @@
         "Counting Sort"
       ],
       "title": "Sort an Array",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "1004": {
       "attempts": 1,
@@ -307,7 +307,7 @@
         "Prefix Sum"
       ],
       "title": "Max Consecutive Ones III",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "1669": {
       "attempts": 3,
@@ -325,7 +325,7 @@
         "Linked List"
       ],
       "title": "Merge In Between Linked Lists",
-      "at": 1789669356147
+      "at": 1789705571129
     },
     "2095": {
       "attempts": 2,
@@ -344,7 +344,7 @@
         "Two Pointers"
       ],
       "title": "Delete the Middle Node of a Linked List",
-      "at": 1789669356147
+      "at": 1789705571129
     }
   },
   "achievements": {
@@ -362,11 +362,12 @@
     "2026-09-12",
     "2026-09-14",
     "2026-09-15",
-    "2026-09-16"
+    "2026-09-16",
+    "2026-09-17"
   ],
   "bests": {
-    "longestStreak": 3,
-    "pushes": 19
+    "longestStreak": 4,
+    "pushes": 20
   },
   "identity": {
     "installId": "d947b126-992d-423d-946b-7d41db8a4100",
