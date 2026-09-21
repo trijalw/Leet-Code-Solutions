@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789984940561,
+  "updatedAt": 1789985116506,
   "devices": {
     "bcf4e553-e729-4b38-8259-30b740fa03ee": {
-      "lastSeen": 1789984939619
+      "lastSeen": 1789985115341
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "24": {
       "attempts": 1,
@@ -43,7 +43,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "25": {
       "attempts": 1,
@@ -62,7 +62,7 @@
         "Recursion"
       ],
       "title": "Reverse Nodes in k-Group",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "86": {
       "attempts": 1,
@@ -81,7 +81,7 @@
         "Two Pointers"
       ],
       "title": "Partition List",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "92": {
       "attempts": 2,
@@ -99,7 +99,7 @@
         "Linked List"
       ],
       "title": "Reverse Linked List II",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "142": {
       "attempts": 1,
@@ -120,7 +120,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "143": {
       "attempts": 2,
@@ -141,7 +141,7 @@
         "Recursion"
       ],
       "title": "Reorder List",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "148": {
       "attempts": 1,
@@ -163,7 +163,7 @@
         "Merge Sort"
       ],
       "title": "Sort List",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "160": {
       "attempts": 1,
@@ -183,7 +183,7 @@
         "Two Pointers"
       ],
       "title": "Intersection of Two Linked Lists",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "167": {
       "attempts": 1,
@@ -203,7 +203,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "189": {
       "attempts": 3,
@@ -223,7 +223,7 @@
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "234": {
       "attempts": 3,
@@ -244,7 +244,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "283": {
       "attempts": 2,
@@ -263,7 +263,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "328": {
       "attempts": 1,
@@ -281,7 +281,27 @@
         "Linked List"
       ],
       "title": "Odd Even Linked List",
-      "at": 1789984939619
+      "at": 1789985115341
+    },
+    "904": {
+      "attempts": 2,
+      "bestMemory": "70.7 MB (Beats 30%)",
+      "bestRuntime": "59 ms (Beats 13%)",
+      "date": "2026-09-21",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-21",
+      "folderName": "0904-Fruit-Into-Baskets",
+      "language": "Java",
+      "number": 904,
+      "slug": "fruit-into-baskets",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ],
+      "title": "Fruit Into Baskets",
+      "at": 1789985115341
     },
     "912": {
       "attempts": 1,
@@ -306,7 +326,7 @@
         "Counting Sort"
       ],
       "title": "Sort an Array",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "1004": {
       "attempts": 1,
@@ -327,7 +347,7 @@
         "Prefix Sum"
       ],
       "title": "Max Consecutive Ones III",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "1669": {
       "attempts": 3,
@@ -345,7 +365,7 @@
         "Linked List"
       ],
       "title": "Merge In Between Linked Lists",
-      "at": 1789984939619
+      "at": 1789985115341
     },
     "2095": {
       "attempts": 2,
@@ -364,7 +384,7 @@
         "Two Pointers"
       ],
       "title": "Delete the Middle Node of a Linked List",
-      "at": 1789984939619
+      "at": 1789985115341
     }
   },
   "achievements": {
@@ -384,11 +404,12 @@
     "2026-09-15",
     "2026-09-16",
     "2026-09-17",
-    "2026-09-18"
+    "2026-09-18",
+    "2026-09-21"
   ],
   "bests": {
     "longestStreak": 5,
-    "pushes": 21
+    "pushes": 22
   },
   "identity": {
     "installId": "d947b126-992d-423d-946b-7d41db8a4100",
