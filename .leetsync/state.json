@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791352574304,
+  "updatedAt": 1791352874570,
   "devices": {
     "bcf4e553-e729-4b38-8259-30b740fa03ee": {
-      "lastSeen": 1791352573327
+      "lastSeen": 1791352873371
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "19": {
       "attempts": 2,
@@ -44,7 +44,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "24": {
       "attempts": 1,
@@ -63,7 +63,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "25": {
       "attempts": 1,
@@ -82,7 +82,7 @@
         "Recursion"
       ],
       "title": "Reverse Nodes in k-Group",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "61": {
       "attempts": 4,
@@ -101,7 +101,7 @@
         "Two Pointers"
       ],
       "title": "Rotate List",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "86": {
       "attempts": 1,
@@ -120,7 +120,7 @@
         "Two Pointers"
       ],
       "title": "Partition List",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "92": {
       "attempts": 2,
@@ -138,7 +138,7 @@
         "Linked List"
       ],
       "title": "Reverse Linked List II",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "138": {
       "attempts": 1,
@@ -157,7 +157,7 @@
         "Linked List"
       ],
       "title": "Copy List with Random Pointer",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "142": {
       "attempts": 1,
@@ -178,7 +178,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "143": {
       "attempts": 2,
@@ -199,7 +199,7 @@
         "Recursion"
       ],
       "title": "Reorder List",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "148": {
       "attempts": 1,
@@ -221,7 +221,7 @@
         "Merge Sort"
       ],
       "title": "Sort List",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "160": {
       "attempts": 1,
@@ -241,7 +241,7 @@
         "Two Pointers"
       ],
       "title": "Intersection of Two Linked Lists",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "167": {
       "attempts": 1,
@@ -261,7 +261,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "189": {
       "attempts": 3,
@@ -281,7 +281,7 @@
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "234": {
       "attempts": 3,
@@ -302,7 +302,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "283": {
       "attempts": 2,
@@ -321,7 +321,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "328": {
       "attempts": 1,
@@ -339,7 +339,28 @@
         "Linked List"
       ],
       "title": "Odd Even Linked List",
-      "at": 1791352573327
+      "at": 1791352873371
+    },
+    "435": {
+      "attempts": 1,
+      "bestMemory": "115.9 MB (Beats 21%)",
+      "bestRuntime": "46 ms (Beats 73%)",
+      "date": "2026-10-07",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-07",
+      "folderName": "0435-Non-overlapping-Intervals",
+      "language": "Java",
+      "number": 435,
+      "slug": "non-overlapping-intervals",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Sorting"
+      ],
+      "title": "Non-overlapping Intervals",
+      "at": 1791352873371
     },
     "445": {
       "attempts": 1,
@@ -359,7 +380,7 @@
         "Stack"
       ],
       "title": "Add Two Numbers II",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "875": {
       "attempts": 5,
@@ -378,7 +399,7 @@
         "Binary Search"
       ],
       "title": "Koko Eating Bananas",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "904": {
       "attempts": 2,
@@ -398,7 +419,7 @@
         "Sliding Window"
       ],
       "title": "Fruit Into Baskets",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "912": {
       "attempts": 1,
@@ -423,7 +444,7 @@
         "Counting Sort"
       ],
       "title": "Sort an Array",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "1004": {
       "attempts": 1,
@@ -444,7 +465,7 @@
         "Prefix Sum"
       ],
       "title": "Max Consecutive Ones III",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "1669": {
       "attempts": 3,
@@ -462,7 +483,7 @@
         "Linked List"
       ],
       "title": "Merge In Between Linked Lists",
-      "at": 1791352573327
+      "at": 1791352873371
     },
     "2095": {
       "attempts": 2,
@@ -481,7 +502,7 @@
         "Two Pointers"
       ],
       "title": "Delete the Middle Node of a Linked List",
-      "at": 1791352573327
+      "at": 1791352873371
     }
   },
   "achievements": {
@@ -490,7 +511,8 @@
     "first_blood": 1789053224786,
     "medium_rare": 1789506578221,
     "night_owl": 1789160779634,
-    "on_fire": 1789171870317
+    "on_fire": 1789171870317,
+    "quarter": 1791352591493
   },
   "sheets": {},
   "days": [
@@ -504,11 +526,12 @@
     "2026-09-18",
     "2026-09-21",
     "2026-09-22",
-    "2026-09-23"
+    "2026-09-23",
+    "2026-10-07"
   ],
   "bests": {
     "longestStreak": 5,
-    "pushes": 28
+    "pushes": 29
   },
   "identity": {
     "installId": "d947b126-992d-423d-946b-7d41db8a4100",
