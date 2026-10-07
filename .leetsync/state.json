@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791353654019,
+  "updatedAt": 1791353774351,
   "devices": {
     "bcf4e553-e729-4b38-8259-30b740fa03ee": {
-      "lastSeen": 1791353652900
+      "lastSeen": 1791353773339
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "19": {
       "attempts": 2,
@@ -44,7 +44,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "24": {
       "attempts": 1,
@@ -63,7 +63,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "25": {
       "attempts": 1,
@@ -82,7 +82,7 @@
         "Recursion"
       ],
       "title": "Reverse Nodes in k-Group",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "61": {
       "attempts": 4,
@@ -101,7 +101,7 @@
         "Two Pointers"
       ],
       "title": "Rotate List",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "86": {
       "attempts": 1,
@@ -120,7 +120,7 @@
         "Two Pointers"
       ],
       "title": "Partition List",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "92": {
       "attempts": 2,
@@ -138,7 +138,7 @@
         "Linked List"
       ],
       "title": "Reverse Linked List II",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "138": {
       "attempts": 1,
@@ -157,7 +157,7 @@
         "Linked List"
       ],
       "title": "Copy List with Random Pointer",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "142": {
       "attempts": 1,
@@ -178,7 +178,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "143": {
       "attempts": 2,
@@ -199,7 +199,7 @@
         "Recursion"
       ],
       "title": "Reorder List",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "148": {
       "attempts": 1,
@@ -221,7 +221,7 @@
         "Merge Sort"
       ],
       "title": "Sort List",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "160": {
       "attempts": 1,
@@ -241,7 +241,7 @@
         "Two Pointers"
       ],
       "title": "Intersection of Two Linked Lists",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "167": {
       "attempts": 1,
@@ -261,7 +261,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "189": {
       "attempts": 3,
@@ -281,7 +281,7 @@
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "234": {
       "attempts": 3,
@@ -302,7 +302,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "283": {
       "attempts": 2,
@@ -321,7 +321,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "328": {
       "attempts": 1,
@@ -339,7 +339,7 @@
         "Linked List"
       ],
       "title": "Odd Even Linked List",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "435": {
       "attempts": 1,
@@ -360,7 +360,7 @@
         "Sorting"
       ],
       "title": "Non-overlapping Intervals",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "445": {
       "attempts": 1,
@@ -380,7 +380,26 @@
         "Stack"
       ],
       "title": "Add Two Numbers II",
-      "at": 1791353652900
+      "at": 1791353773339
+    },
+    "860": {
+      "attempts": 3,
+      "bestMemory": "72.1 MB (Beats 93%)",
+      "bestRuntime": "2 ms (Beats 98%)",
+      "date": "2026-10-07",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-07",
+      "folderName": "0860-Lemonade-Change",
+      "language": "Java",
+      "number": 860,
+      "slug": "lemonade-change",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Greedy"
+      ],
+      "title": "Lemonade Change",
+      "at": 1791353773339
     },
     "875": {
       "attempts": 5,
@@ -399,7 +418,7 @@
         "Binary Search"
       ],
       "title": "Koko Eating Bananas",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "904": {
       "attempts": 2,
@@ -419,7 +438,7 @@
         "Sliding Window"
       ],
       "title": "Fruit Into Baskets",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "912": {
       "attempts": 1,
@@ -444,7 +463,7 @@
         "Counting Sort"
       ],
       "title": "Sort an Array",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "1004": {
       "attempts": 1,
@@ -465,7 +484,7 @@
         "Prefix Sum"
       ],
       "title": "Max Consecutive Ones III",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "1669": {
       "attempts": 3,
@@ -483,7 +502,7 @@
         "Linked List"
       ],
       "title": "Merge In Between Linked Lists",
-      "at": 1791353652900
+      "at": 1791353773339
     },
     "2095": {
       "attempts": 2,
@@ -502,7 +521,7 @@
         "Two Pointers"
       ],
       "title": "Delete the Middle Node of a Linked List",
-      "at": 1791353652900
+      "at": 1791353773339
     }
   },
   "achievements": {
@@ -531,7 +550,7 @@
   ],
   "bests": {
     "longestStreak": 5,
-    "pushes": 29
+    "pushes": 30
   },
   "identity": {
     "installId": "d947b126-992d-423d-946b-7d41db8a4100",
