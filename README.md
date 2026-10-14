@@ -41,7 +41,7 @@
 | 143 | [Reorder List](problems/0143-Reorder-List) | 🟧 Medium | `Java` | 2026-09-17 |
 | 148 | [Sort List](problems/0148-Sort-List) | 🟧 Medium | `Java` | 2026-09-15 |
 | 160 | [Intersection of Two Linked Lists](problems/0160-Intersection-of-Two-Linked-Lists) | 🟩 Easy | `Java` | 2026-09-16 |
-| 167 | [Two Sum II - Input Array Is Sorted](problems/0167-Two-Sum-II---Input-Array-Is-Sorted) | 🟧 Medium | `Java` | 2026-09-11 |
+| 167 | [Two Sum II - Input Array Is Sorted](problems/0167-Two-Sum-II---Input-Array-Is-Sorted) | 🟧 Medium | `Java` | 2026-10-14 |
 | 189 | [Rotate Array](problems/0189-Rotate-Array) | 🟧 Medium | `Java` | 2026-09-18 |
 | 234 | [Palindrome Linked List](problems/0234-Palindrome-Linked-List) | 🟩 Easy | `Java` | 2026-09-11 |
 | 283 | [Move Zeroes](problems/0283-Move-Zeroes) | 🟩 Easy | `Java` | 2026-09-11 |
