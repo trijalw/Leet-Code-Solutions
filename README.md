@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-28%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-6%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-21%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-29%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-7%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-21%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -36,6 +36,7 @@
 | 61 | [Rotate List](problems/0061-Rotate-List) | 🟧 Medium | `Java` | 2026-09-21 |
 | 86 | [Partition List](problems/0086-Partition-List) | 🟧 Medium | `Java` | 2026-09-14 |
 | 92 | [Reverse Linked List II](problems/0092-Reverse-Linked-List-II) | 🟧 Medium | `Java` | 2026-09-11 |
+| 125 | [Valid Palindrome](problems/0125-Valid-Palindrome) | 🟩 Easy | `Java` | 2026-10-14 |
 | 138 | [Copy List with Random Pointer](problems/0138-Copy-List-with-Random-Pointer) | 🟧 Medium | `Java` | 2026-09-22 |
 | 142 | [Linked List Cycle II](problems/0142-Linked-List-Cycle-II) | 🟧 Medium | `Java` | 2026-09-10 |
 | 143 | [Reorder List](problems/0143-Reorder-List) | 🟧 Medium | `Java` | 2026-09-17 |
